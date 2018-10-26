@@ -1,0 +1,34 @@
+body {
+	padding: 20px 5vw;
+}
+
+th, td {
+	text-align: center;
+	padding: 5px;
+}
+
+.mailicon {
+	width: 20px;
+}
+
+.navborder {
+	border: solid 2px darkgray;
+}
+
+.footer {
+	background-color: #f8f9fa;
+	border: solid 2px darkgray;
+}
+
+.tgif_logo {
+	width: 100px;
+}
+
+.tgif_img {
+	width: 270px;
+	margin-top: 50px;
+}
+
+.loadicon {
+	width: 50px;
+}
